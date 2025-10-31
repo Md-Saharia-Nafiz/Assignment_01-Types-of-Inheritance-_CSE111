@@ -69,7 +69,7 @@ Inheritance is a key feature of Object-Oriented Programming (OOP) that allows a 
 ## 🔔 Purpose of Inheritance in C++:
 
 Inheritance allows a class to reuse code from another class. It helps in creating a hierarchical classification of classes. Promotes modularity by organizing programs into base and derived classes. Enables function overriding, allowing derived classes to customize behavior. Supports polymorphism for dynamic method execution. Reduces redundancy and makes maintenance easier. Models real-world relationships between entities in a program.
-## 📘 What I Learned from This Assignment:
+## 📚 What I Learned from This Assignment:
 
 🧠 Learned how inheritance allows code reuse and reduces redundancy.
 
@@ -84,3 +84,8 @@ Inheritance allows a class to reuse code from another class. It helps in creatin
 ✍️ Realized how inheritance helps in modular and maintainable code.
 
 🚀 Gained insight into modeling real-world relationships in C++ programs.
+
+👨‍💻 Developed By
+
+<img width="479" height="145" alt="image" src="https://github.com/user-attachments/assets/16e76890-a88a-486b-86be-dd02e08bb5eb" />
+
