@@ -85,7 +85,3 @@ Inheritance allows a class to reuse code from another class. It helps in creatin
 
 🚀 Gained insight into modeling real-world relationships in C++ programs.
 
-👨‍💻 Developed By
-
-<img width="479" height="145" alt="image" src="https://github.com/user-attachments/assets/16e76890-a88a-486b-86be-dd02e08bb5eb" />
-
